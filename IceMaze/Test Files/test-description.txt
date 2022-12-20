@@ -1,0 +1,8 @@
+test1.txt :
+ It builds a graph from all nodes to exit node
+
+test2.txt:
+ It builds a graph from all nodes to exit node
+
+test3.txt:
+ There is no path found as exit node is rock, so it prints as no path found.
