@@ -1,6 +1,6 @@
 # python_projects
 
-This is a collection of my Python projects i did in my grad school.
+This is a collection of Python projects i did in my grad school.
 
 Overview:
 1. tiny_turtle.py ->  This project uses basic commands from python Turtle Library and draws the patterns. The commands are given by users. The commands used are:   
