@@ -1,0 +1,9 @@
+File: puzzle_10.txt
+  2 1
+  ----
+2|1 2|1
+1|2 1|2
+  ----
+  1 2
+
+The puzzle is valid!
